@@ -1,0 +1,9 @@
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\bin\Debug\Ahorcado.xml
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.frmAhorcado.resources
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.Resources.resources
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.vbproj.GenerateResource.Cache
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.exe
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.xml
+G:\2-DAM\DDI\TEMA 1\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.pdb
